@@ -1,5 +1,3 @@
-
-[toc]
 # Python_project
 本项目用于储存python的项目。
 
